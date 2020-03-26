@@ -5,3 +5,5 @@ This is an exercise on git branching on my own repository.
 For some guidance, visit [GitHub Guides](https://guides.github.com/).
 
 ## This is a new branch
+
+## This is an example of how to use forking on git
