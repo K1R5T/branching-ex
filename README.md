@@ -7,3 +7,4 @@ For some guidance, visit [GitHub Guides](https://guides.github.com/).
 ## This is a new branch
 
 This is an update to the branching exerise.
+
