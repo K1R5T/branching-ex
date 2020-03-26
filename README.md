@@ -5,4 +5,6 @@ This is an exercise on git branching on my own repository.
 For some guidance, visit [GitHub Guides](https://guides.github.com/).
 
 ## This is a new branch
-Mark just added some wonderfull text 
+
+This is an update to the branching exerise.
+
